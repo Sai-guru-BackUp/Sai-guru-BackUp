@@ -1,16 +1,15 @@
-## Hi there 👋
+# 👋 Hi there!
+#WAIT-WAIT-WAIT-WAIT-WAIT-WAI
+This is **just my second GitHub account**.
 
-<!--
-**Sai-guru-BackUp/Sai-guru-BackUp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I use this account for:
+- Practice work
+- Basic or experimental projects
+- Course-related tasks
 
-Here are some ideas to get you started:
+This is **not my main account**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+👉 Check out my **main GitHub account** here:  
+[🔗 github.com/your-main-username](https://github.com/Sai-guru)
+
+Thanks for visiting!
