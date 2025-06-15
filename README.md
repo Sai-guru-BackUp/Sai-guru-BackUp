@@ -10,6 +10,7 @@ I use this account for:
 This is **not my main account**.
 
 👉 Check out my **main GitHub account** here:  
-[🔗 github.com/your-main-username](https://github.com/Sai-guru)
-https://github.com/Sai-guru
+[🔗 github.com/your-main-username] https://github.com/Sai-guru
+
+
 Thanks for visiting!
